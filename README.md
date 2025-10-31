@@ -1,1 +1,1 @@
-- cần cái đặt các package Python cho Ansible đúng với môi trường Python đang sử dụng cho Ansible ( pipx hoặc pip3)
+- cần cài đặt các package Python cho Ansible đúng với môi trường Python đang sử dụng cho Ansible ( pipx hoặc pip3)
